@@ -36,7 +36,7 @@ The model has been exported as a `.pkl` file and integrated into a **Streamlit w
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/upi-fraud-detection.git
+git clone https://github.com/Amanpandit87/UPI_fraud_detection
 cd upi-fraud-detection
 The app takes the following inputs:
 
